@@ -1,0 +1,7 @@
+#!/bin/ruby
+
+if ARGV.length == 1
+	puts "the parameter is : " << ARGV[0]
+else
+	puts "please enter parameter!!!"
+end
